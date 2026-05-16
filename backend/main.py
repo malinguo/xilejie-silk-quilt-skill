@@ -366,7 +366,7 @@ def handle_purchase_links(args):
     return {
         "douyin_group": "https://aweme.snssdk.com/falcon/poi_mwa/trade_detail?activity_id=1864313654090764",
         "wechat_customer": {
-            "wechat_id": "xilejie_silk",
+            "wechat_id": "18637535738",
             "qr_code": "微信扫码添加客服",
             "note": "有定制、绣字、特殊尺寸需求，请加微信客服"
         },

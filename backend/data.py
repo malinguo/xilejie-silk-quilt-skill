@@ -25,7 +25,7 @@ BRAND_INFO = {
         "假一赔十承诺"
     ],
     "contact": {
-        "wechat": "xilejie_silk",
+        "wechat": "18637535738",
         "phone": "请通过微信联系"
     }
 }
