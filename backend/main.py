@@ -364,7 +364,7 @@ def handle_latest_news(args):
 def handle_purchase_links(args):
     """购买方式与团购链接"""
     return {
-        "douyin_group": "https://v.douyin.com/xxxxx/",  # 替换成真实抖音团购链接
+        "douyin_group": "https://aweme.snssdk.com/falcon/poi_mwa/trade_detail?activity_id=1864313654090764",
         "wechat_customer": {
             "wechat_id": "xilejie_silk",
             "qr_code": "微信扫码添加客服",
